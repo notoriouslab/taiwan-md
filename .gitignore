@@ -25,3 +25,4 @@ pnpm-debug.log*
 public/api/random.json
 public/api/random.json
 public/api/search-minisearch.json
+public/lib/
