@@ -25,3 +25,10 @@ pnpm-debug.log*
 public/api/random.json
 public/api/random.json
 public/api/search-minisearch.json
+.gstack/
+
+# Spectra / Claude Code (local dev config, not part of the project)
+.spectra/
+openspec/
+.claude/
+CLAUDE.md
